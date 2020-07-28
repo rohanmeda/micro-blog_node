@@ -1,12 +1,12 @@
 {
-  "name": "storyblocks1.0",
+  "name": "micro_blog",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rohan KUmar",
+  "author": "Rohan Meda",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.4",
